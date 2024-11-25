@@ -1,0 +1,4 @@
+- Cersei Lannister
+- Joffrey Baratheon
+- Tywin Lannister
+- Ilyn Payne
